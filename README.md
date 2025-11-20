@@ -1,4 +1,4 @@
-# Category D: Security CATNAME Admin
+# Category D: Security & Admin
 ## Wave 1 Analysis - DISTRIBUTED_SYSTEMS Exploration Pipeline
 
 **Repository**: Part of 8-category parallel analysis
