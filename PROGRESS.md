@@ -13,7 +13,7 @@
 - [ ] **Phase 4**: Research questions → `analysis/CATEGORY_X_RESEARCH_QUESTIONS.md`
 - [ ] **Phase 5**: Final assembly → `analysis/CATEGORY_X_ANALYSIS.md`
 
-**Current Phase**: Phase 1 - COMPLETE ✓ | Moving to Phase 2
+**Current Phase**: Phase 2 - In Progress (3/6 files analyzed, 50% complete)
 
 ---
 
@@ -66,11 +66,15 @@ For **each file** in `source-docs/`, create a separate analysis file in `analysi
 
 ### Checklist (one per file):
 
-- [ ] File 1: `___________` → `analysis/files/FILE1_ANALYSIS.md`
-- [ ] File 2: `___________` → `analysis/files/FILE2_ANALYSIS.md`
-- [ ] File 3: `___________` → `analysis/files/FILE3_ANALYSIS.md`
+- [x] File 1: `ADMIN_IMPLEMENTATION_PERSISTENCE.MD` → `analysis/files/ADMIN_IMPLEMENTATION_PERSISTENCE_ANALYSIS.md`
+- [x] File 2: `ADMIN_TIERS_CAPABILITIES.MD` → `analysis/files/ADMIN_TIERS_CAPABILITIES_ANALYSIS.md`
+- [x] File 3: `PHYSICAL_SAFETY_SERVERS.md` → `analysis/files/PHYSICAL_SAFETY_SERVERS_ANALYSIS.md`
+- [ ] File 4: `PUBLIC_API_TRANSPARENCY_LOG.MD` → `analysis/files/PUBLIC_API_TRANSPARENCY_LOG_ANALYSIS.md`
+- [ ] File 5: `Vulnerabilities.md` → `analysis/files/VULNERABILITIES_ANALYSIS.md`
+- [ ] File 6: `WINDOWS_AD_HARDENING.MD` → `analysis/files/WINDOWS_AD_HARDENING_ANALYSIS.md`
+- [x] File 7: `Blue_team_tools.md` → **EMPTY FILE - SKIPPED**
 
-(Add more based on file count)
+**Progress**: 3 of 6 files analyzed (50% complete)
 
 **Strategy**: Do 1-3 files per session, commit after each, resume in next session
 
@@ -166,7 +170,7 @@ Examples:
 
 Track sessions working on this category:
 
-- **Session 1** [2025-11-20]: Phase(s): Phase 1 COMPLETE | Files read: All 7 (Note: Blue_team_tools.md is empty)
+- **Session 1** [2025-11-20]: Phase(s): Phase 1 COMPLETE + Phase 2 (3/6 files) | Files: Read all 7, Analyzed 3 (ADMIN_IMPLEMENTATION_PERSISTENCE, ADMIN_TIERS_CAPABILITIES, PHYSICAL_SAFETY_SERVERS)
 - **Session 2** [Date]: Phase(s): _____ | Files completed: _____
 - **Session 3** [Date]: Phase(s): _____ | Files completed: _____
 
